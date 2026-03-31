@@ -1,0 +1,14 @@
+2026-03-31 21:00:51,637 - api_auto_test - read_data.py - read_data - 24 - INFO - 读取的文件数据:
+{'set_env': 'test', 'login': {'username': 18301001111, 'password': 'test123'}, 'test': {'host': 'https://xx.xx.xx.xx:xx'}, 'fuat': {'host': 'https://xx.xx.xx.xx:xx'}, 'headers': {'host': 'xxxx'}, 'dataBase': {'driverclassname': 'com.mysql.jdbc.Driver', 'url': 'jdbc:mysql://localhost:3306', 'username': 'root', 'password': 'root'}}
+2026-03-31 21:06:49,728 - api_auto_test - read_data.py - read_data - 24 - INFO - 读取的文件数据:
+{'set_env': 'test', 'login': {'username': 18301001111, 'password': 'test123'}, 'test': {'host': 'https://xx.xx.xx.xx:xx'}, 'fuat': {'host': 'https://xx.xx.xx.xx:xx'}, 'headers': {'host': 'xxxx'}, 'dataBase': {'driverclassname': 'com.mysql.jdbc.Driver', 'url': 'jdbc:mysql://localhost:3306', 'username': 'root', 'password': 'root'}}
+2026-03-31 21:07:43,624 - api_auto_test - read_data.py - read_data - 24 - INFO - 读取的文件数据:
+{'set_env': 'test', 'login': {'username': 18301001111, 'password': 'test123'}, 'test': {'host': 'https://xx.xx.xx.xx:xx'}, 'fuat': {'host': 'https://xx.xx.xx.xx:xx'}, 'headers': {'host': 'xxxx'}, 'dataBase': {'driverclassname': 'com.mysql.jdbc.Driver', 'url': 'jdbc:mysql://localhost:3306', 'username': 'root', 'password': 'root'}}
+2026-03-31 21:09:28,992 - api_auto_test - read_data.py - read_data - 24 - INFO - 读取的文件数据:
+{'set_env': 'test', 'login': {'username': 18301001111, 'password': 'test123'}, 'test': {'host': 'https://xx.xx.xx.xx:xx'}, 'fuat': {'host': 'https://xx.xx.xx.xx:xx'}, 'headers': {'host': 'xxxx'}, 'dataBase': {'driverclassname': 'com.mysql.jdbc.Driver', 'url': 'jdbc:mysql://localhost:3306', 'username': 'root', 'password': 'root'}}
+2026-03-31 21:10:20,031 - api_auto_test - read_data.py - read_data - 24 - INFO - 读取的文件数据:
+{'set_env': 'test', 'login': {'username': 18301001111, 'password': 'test123'}, 'test': {'host': 'https://xx.xx.xx.xx:xx'}, 'fuat': {'host': 'https://xx.xx.xx.xx:xx'}, 'headers': {'host': 'xxxx'}, 'dataBase': {'driverclassname': 'com.mysql.jdbc.Driver', 'url': 'jdbc:mysql://localhost:3306', 'username': 'root', 'password': 'root'}}
+2026-03-31 21:11:46,277 - api_auto_test - read_data.py - read_data - 24 - INFO - 读取的文件数据:
+{'set_env': 'test', 'login': {'username': 18301001111, 'password': 'test123'}, 'test': {'host': 'https://xx.xx.xx.xx:xx'}, 'fuat': {'host': 'https://xx.xx.xx.xx:xx'}, 'headers': {'host': 'xxxx'}, 'dataBase': {'driverclassname': 'com.mysql.jdbc.Driver', 'url': 'jdbc:mysql://localhost:3306', 'username': 'root', 'password': 'root'}}
+2026-03-31 21:13:51,849 - api_auto_test - read_data.py - read_data - 24 - INFO - 读取的文件数据:
+{'set_env': 'test', 'login': {'username': 18301001111, 'password': 'test123'}, 'test': {'host': 'https://xx.xx.xx.xx:xx'}, 'fuat': {'host': 'https://xx.xx.xx.xx:xx'}, 'headers': {'host': 'xxxx'}, 'dataBase': {'driverclassname': 'com.mysql.jdbc.Driver', 'url': 'jdbc:mysql://localhost:3306', 'username': 'root', 'password': 'root'}}

@@ -1,0 +1,15 @@
+set_env: test
+login:
+  username: 18301001111
+  password: test123
+test:
+  host: https://xx.xx.xx.xx:xx
+fuat:
+  host: https://xx.xx.xx.xx:xx
+headers:
+  host: xxxx
+dataBase:
+  driverclassname: com.mysql.jdbc.Driver
+  url: jdbc:mysql://localhost:3306
+  username: root
+  password: root

@@ -1,0 +1,12 @@
+2026-03-31 21:06:49,760 - conftest - conftest.py - init_env - 8 - INFO - ==== 测试环境初始化完成 ====
+2026-03-31 21:06:50,060 - conftest - conftest.py - init_env - 10 - INFO - ==== 测试环境清理完成 ====
+2026-03-31 21:07:43,639 - conftest - conftest.py - init_env - 8 - INFO - ==== 测试环境初始化完成 ====
+2026-03-31 21:07:44,249 - conftest - conftest.py - init_env - 10 - INFO - ==== 测试环境清理完成 ====
+2026-03-31 21:09:29,008 - conftest - conftest.py - init_env - 8 - INFO - ==== 测试环境初始化完成 ====
+2026-03-31 21:09:29,562 - conftest - conftest.py - init_env - 10 - INFO - ==== 测试环境清理完成 ====
+2026-03-31 21:10:20,046 - conftest - conftest.py - init_env - 8 - INFO - ==== 测试环境初始化完成 ====
+2026-03-31 21:10:20,239 - conftest - conftest.py - init_env - 10 - INFO - ==== 测试环境清理完成 ====
+2026-03-31 21:11:46,293 - conftest - conftest.py - init_env - 8 - INFO - ==== 测试环境初始化完成 ====
+2026-03-31 21:11:46,509 - conftest - conftest.py - init_env - 10 - INFO - ==== 测试环境清理完成 ====
+2026-03-31 21:13:51,866 - conftest - conftest.py - init_env - 8 - INFO - ==== 测试环境初始化完成 ====
+2026-03-31 21:13:52,336 - conftest - conftest.py - init_env - 10 - INFO - ==== 测试环境清理完成 ====

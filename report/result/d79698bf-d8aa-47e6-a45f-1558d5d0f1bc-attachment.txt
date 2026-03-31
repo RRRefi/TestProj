@@ -1,0 +1,8 @@
+[32mINFO    [0m conftest:conftest.py:8 ==== 测试环境初始化完成 ====
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:1022 Starting new HTTPS connection (1): www.baidu.com:443
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:475 https://www.baidu.com:443 "GET / HTTP/1.1" 200 1145
+[35mDEBUG   [0m api_auto_test:api_requests.py:18 请求响应: <Response [200]>
+[32mINFO    [0m api_auto_test:asert_contrast.py:23 进行验证code:
+预期返回:200			实际返回:200
+[32mINFO    [0m api_auto_test:asert_contrast.py:26 验证通过
+[32mINFO    [0m conftest:conftest.py:10 ==== 测试环境清理完成 ====
